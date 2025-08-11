@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Improving backend performance and learning cloud deployment**
 
-- 👨‍💻 All of my projects are available at [👩‍💻 All of my projects are available at: https://github.com/vaishnavijadhav]
+- 👩‍💻 All of my projects are available at: https://github.com/vaishnavijadhav]
 
 - 💬 Ask me about **Full Stack Development, Web Application Design, Database Management**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rIWiENcM-eaR5RoDdssUU2sZ-OC9DjjO/view?usp=drivesdk](https://drive.google.com/file/d/1rIWiENcM-eaR5RoDdssUU2sZ-OC9DjjO/view?usp=drivesdk)
 
-- ⚡ Fun fact **Fun fact: I enjoy turning coffee into code and ideas into applications ☕💻**
+- ⚡ Fun fact **Fun fact:"Code is my colorful canvas, where creativity knows no bounds."
 
 <h3 align="left"></h3>
 <p align="left">
